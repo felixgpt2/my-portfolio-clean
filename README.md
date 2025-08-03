@@ -9,13 +9,13 @@ This is my first personal portfolio webite . It is my first project to kick star
 
 
 # Project description 
-This is a html and css website
-it include anguages you’re proficient in.
-About Section: Shares a brief introduction about myself, my  passion, and what drives me.
-Educational Background: Provide details of me education and include a downloadable CV.
-Interests: Share what excites me about tech and your professional interests.
-Projects: Include links to your projects with brief descriptions.
-Contact Form: Make it easy for collaborators or employers to reach me.:
+-This is a html and css website
+-it include anguages you’re proficient in.
+-About Section: Shares a brief introduction about myself, my  passion, and what drives me.
+-Educational Background: Provide details of me education and include a downloadable CV.
+-Interests: Share what excites me about tech and your professional interests.
+-Projects: Include links to your projects with brief descriptions.
+-Contact Form: Make it easy for collaborators or employers to reach me.:
 
 # technologies used 
 html5
