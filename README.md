@@ -26,6 +26,11 @@ live serve extension
 # Folder strcture
 -portfolio/ ├── index.html ├── style.css ├── images/ │   └── background.jpg ├── cv.pdf └── README.md 
 
+# Authors info 
+Email : felixkenduiwa@gmail.com
+Phone no : 0719471613
+
+
 
 
 
