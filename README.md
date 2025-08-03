@@ -1,5 +1,5 @@
 # My personal portfolio website
-This is my first personal portfolio webite . It is my first project to kick start my software developement 
+This is my first personal portfolio webite . It is my first project to kick start my software developement journey
 
 # live site
 [visit my live site on (https://felixgpt2.github.io/my-portfolio-clean/)
