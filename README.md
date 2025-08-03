@@ -2,7 +2,7 @@
 This is my first personal portfolio webite . It is my first project to kick start my software developement 
 
 # live site
-[visit my live site on (
+[visit my live site on (https://felixgpt2.github.io/my-portfolio-clean/)
 
 
 
