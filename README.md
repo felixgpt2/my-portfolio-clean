@@ -1,4 +1,4 @@
-# My personal portfolio weebsite
+# My personal portfolio website
 This is my first personal portfolio webite . It is my first project to kick start my software developement 
 
 
